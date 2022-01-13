@@ -11,10 +11,12 @@ print('Enter a value: ')
 # assigning user input to input by user
 user_input = (input())
 
+# converts string to float then to int and prints it out
 print(int(float(user_input)))
 """
 When the user enters any type of number we get an output of an integer
 When they input a string we get an error
+    --Test results--
 # Input   Expected Output  Actual Output
 #   12           12              12
 #   43.45        43              43
