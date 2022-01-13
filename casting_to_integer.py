@@ -4,7 +4,7 @@ Author: Colby Boell
 Last date modified: 01/12/2022
 
 The purpose of this program is to accept any input,
-convert to a integer type and output the integer.
+convert to an integer type and output the integer.
 """
 # print that prompts user input
 print('Enter a value: ')
